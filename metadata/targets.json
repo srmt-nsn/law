@@ -2,7 +2,7 @@
  "signatures": [
   {
    "keyid": "3ee0cbbdea49d1698ee17d6eb1f6c160315800026dfc29f810e0a216fa1b7e68",
-   "sig": "9de25f7980eeca03e98d43cc0e17fed3382123c6d1ec517a005e5a95984fde9f72ef59d296f3ed2f1cf9ad94e822ff7706028913cdbbab55c755be2b736066b09dc4305d482a114a864bda7fb1211abd8a5fc8d641cef03febf748fe92532b51c493ed2391716663103351cb718e618042d90b74484aba73d95da7412a21fe9a054950f09dd2bf30ae5598061647c734c9e59fcf2577132bcbe90d8c0c98b33f08bbb67d5ff27dcc0edd3d2797163defe3803594a5e1d541426b6d61ab09ac4edf6dddef6b80266a9c1ba530f4a8578b5e745dd88691a089be0ccf62c3fe89962bf22028f04f261ce1a0835dae5bcd8304efdf4cc8d7df41e64dcdf6508a1792"
+   "sig": "6e431b942adf950bdc9869525143fc65cdaba308133c22e7aaff3316b0d55ede716117da55a88f6e6001e5560ae5a3bc484ba8ba52196f0c8a9e66ef3fde5fe0e2114ebebdd324bf3bc137345372813f0ec18d26bde72412b0a672474dc87ba24d426219380c6eaf35df08fed88046f17f71048e8119992577cf183fa8a42b292aab4e0a57548ba087d1f06924fb793f422e8006818be96471a39d1ccab8ab54148cc32e75ee4045512db8a9aea96cd05fce7d8d5c5435be056232a4bb5672fb8fbbb944f1d370f5b106755bafc557ed345b3373f578cc8d3a069006c717a44e7af3a7221d3f45b789e9df4ffe96f0a3eb413017e9e2b22f7c60898f1d813eae"
   }
  ],
  "signed": {
@@ -58,7 +58,9 @@
      ],
      "name": "rdf",
      "paths": [
-      "srmt-nsn/law-rdf"
+      "srmt-nsn/law-rdf",
+      "rdf/branch",
+      "rdf/capstone"
      ],
      "terminating": true,
      "threshold": 1
@@ -89,7 +91,7 @@
     }
    ]
   },
-  "expires": "2024-12-11T19:21:40Z",
+  "expires": "2024-12-13T17:13:33Z",
   "spec_version": "1.0.0",
   "targets": {
    "mirrors.json": {
@@ -114,6 +116,6 @@
     "length": 1439
    }
   },
-  "version": 2
+  "version": 3
  }
 }
