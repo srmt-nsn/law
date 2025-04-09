@@ -1,8 +1,8 @@
 {
  "signatures": [
   {
-   "keyid": "3ee0cbbdea49d1698ee17d6eb1f6c160315800026dfc29f810e0a216fa1b7e68",
-   "sig": "918c138be06d11fed538fd6ceeb7083791979df65c2718a34ee153eb24de2b1805835f5c06578086291aea7cbe533fae828d225d8b6c08286b5a91968cffe0a8d03752e948f1f040deeb18836bac5d7ed8df5a0964e3e724fb13803e935cc8023715b146f05ec73801239eb9719b90f320b1db0e42c8c2bb75be7425dcb951407f9977c9c3a7cfdf78c603079c5e465bc96cebc76b9bea1fb271f855608b101c9ab11843fa2a62063f9d1a276f5acd2c42d1268c99622bba890235a16491a436deb864a033b6b4c845b0760bf2b25412094510a2246637661d3248522842756ffb059e1c97d2734ced4510cfc3f21234d00fd3ffb7af6fba2c793c937be38a11"
+   "keyid": "8607a8656813c89fc64105079e37c50fc1ea0f70878eadce1d90be5c17250b94",
+   "sig": "a119acc755ec56afd15784a7c33d9550cb57482601ce70ae9217e52c92e5217c18066dd97b7f76bd1b1cadc986885b9be7d19805a43ba83ed2fe21ca75bebb6d0073b9e5663965f26453cb455adfb65108b78c883143b6698f91173c60ea05bd7495e167f8cd05c4abebdeb5ad9d84aa3723c26c341cd5b59d58a06e61879bb905652541a2f944a3a6544da626de7f7bd488bec79152f4ac94db4b3c54c9d40cc3175172d3034d6b848cc0fd0d63dd52a20cbf2004b2caa9b7211f4a408982df98291a6de334ffb98648416f178e9c7f2d7aa6ad39d09a53b3aef0b9523ddf0637ec39e740e23a96190bb50ed4e01aba9373ceae77d3313a4578203ef2f93bc7"
   }
  ],
  "signed": {
@@ -17,6 +17,17 @@
      "keytype": "rsa",
      "keyval": {
       "public": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA6OyuwnpYgc3asb9sp8rR\nI+8IBFubCsnVoNooFwK0I/mHVM37PA6GOgsfvDcwYVO5hxTSzkiiPXVkXcQvQIqj\nxYM+mIvRMoMMZYGe7FG5lyKCsOkAyRVouc65aemcpL3YvfJfk6d0emv178x5Npge\nV+mHu5FTSPmxvHH2yMQms9o8TWlrDQUBn6s24s/FFTu4Z2SQbJHhJTgFpHIl50Bq\nE28NJLSG5KI5waEaA/oQTATTLGVF/nsVouZQop34CzObpPzD+r7XqrTT7IquEfDj\nwKeCE6UWrypkCo6k7hdv9ZV/oihqeSNMzsyppvfiH9tfMS+sjte43yn5YjME9ZPd\nYwIDAQAB\n-----END PUBLIC KEY-----"
+     },
+     "scheme": "rsa-pkcs1v15-sha256"
+    },
+    "8607a8656813c89fc64105079e37c50fc1ea0f70878eadce1d90be5c17250b94": {
+     "keyid_hash_algorithms": [
+      "sha256",
+      "sha512"
+     ],
+     "keytype": "rsa",
+     "keyval": {
+      "public": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArIq/m+pPYK1t/PJvz1YF\nxtttRYQYMDEu5IPHCeYv6GPW0bGfTzURKh7tPzdevaESwjZVXttEVQi3NplZmRcE\nRykl7pTjUxG7W65tEiF2ltld/V4jUDGx1O0C7DM9u3MTl3w9/P4LZUFbAsds0Fed\nVwmWPIipYSkPPRQKNwwC9QARBaHl4RhNjzV5RzyDfC8o6rwJovAZrpPUrJq+FOqI\nC9+KvhZkK/OAMGrZ+sjN9yuzn4vNdTkoCd0CLl+XM7XtQ7xAC4h7bc3/e9IWqz7F\nOPQK5Ae5Qm6j+wLgur3rElS/nD+APvOtCCtCUEhY6I8ITJntYFuGg5bgbacEjcEG\nOQIDAQAB\n-----END PUBLIC KEY-----\n"
      },
      "scheme": "rsa-pkcs1v15-sha256"
     },
@@ -36,7 +47,8 @@
     {
      "keyids": [
       "3ee0cbbdea49d1698ee17d6eb1f6c160315800026dfc29f810e0a216fa1b7e68",
-      "ac309ec75e9e4c353d7541e0816fbbc33acc16b73167b4951873db97a239a111"
+      "ac309ec75e9e4c353d7541e0816fbbc33acc16b73167b4951873db97a239a111",
+      "8607a8656813c89fc64105079e37c50fc1ea0f70878eadce1d90be5c17250b94"
      ],
      "name": "law",
      "paths": [
@@ -54,7 +66,8 @@
     {
      "keyids": [
       "3ee0cbbdea49d1698ee17d6eb1f6c160315800026dfc29f810e0a216fa1b7e68",
-      "ac309ec75e9e4c353d7541e0816fbbc33acc16b73167b4951873db97a239a111"
+      "ac309ec75e9e4c353d7541e0816fbbc33acc16b73167b4951873db97a239a111",
+      "8607a8656813c89fc64105079e37c50fc1ea0f70878eadce1d90be5c17250b94"
      ],
      "name": "rdf",
      "paths": [
@@ -68,7 +81,8 @@
     {
      "keyids": [
       "3ee0cbbdea49d1698ee17d6eb1f6c160315800026dfc29f810e0a216fa1b7e68",
-      "ac309ec75e9e4c353d7541e0816fbbc33acc16b73167b4951873db97a239a111"
+      "ac309ec75e9e4c353d7541e0816fbbc33acc16b73167b4951873db97a239a111",
+      "8607a8656813c89fc64105079e37c50fc1ea0f70878eadce1d90be5c17250b94"
      ],
      "name": "docs",
      "paths": [
@@ -80,7 +94,8 @@
     {
      "keyids": [
       "3ee0cbbdea49d1698ee17d6eb1f6c160315800026dfc29f810e0a216fa1b7e68",
-      "ac309ec75e9e4c353d7541e0816fbbc33acc16b73167b4951873db97a239a111"
+      "ac309ec75e9e4c353d7541e0816fbbc33acc16b73167b4951873db97a239a111",
+      "8607a8656813c89fc64105079e37c50fc1ea0f70878eadce1d90be5c17250b94"
      ],
      "name": "assets",
      "paths": [
@@ -116,6 +131,6 @@
     "length": 1431
    }
   },
-  "version": 4
+  "version": 5
  }
 }
